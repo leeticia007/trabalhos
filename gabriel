@@ -1,0 +1,11 @@
+#Como fazer um loop
+
+#iniciando a variável
+
+contador = 0
+
+#utilizando o while
+
+while contador < 50:
+    print("o valor do contador é:", contador)
+    contador += 1 
